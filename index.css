@@ -1,0 +1,26 @@
+body {
+  background: #fff;
+  box-sizing: border-box;
+  color: #333;
+  font: 14px sans-serif;
+  margin: 0 auto;
+  max-width: 640px;
+  padding: 8px;
+}
+
+a {
+  color: steelblue;
+  text-decoration: none;
+}
+
+a:hover {
+  color: lightsteelblue;
+}
+
+[type=text] {
+  border-radius: 3px;
+  border: 1px solid gainsboro;
+  box-sizing: border-box;
+  padding: 8px;
+  width: 100%;
+}
